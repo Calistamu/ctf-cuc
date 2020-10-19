@@ -1,12 +1,12 @@
 # ctf-cuc
-ctf培训笔记
+cuc-ctf培训笔记
 ## 平台
 [buuoj](https://buuoj.cn/)  
 [xctf](https://www.xctf.org.cn/)  
 [gitee](https://gitee.com/)
 [xssgame]()
 ## github
-[awesome-ctf](https://c4pr1c3.github.io/awesome-ctf/)  
+自我学习：[awesome-ctf](https://c4pr1c3.github.io/awesome-ctf/)  
 PR:[CUC CTF-Wiki](https://cuccs.github.io/ctf-wiki/)
 ## 培训内容
 ### 第一周
